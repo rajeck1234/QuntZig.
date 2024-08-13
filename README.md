@@ -53,7 +53,7 @@ It is crucial for hotel management to take proactive measures to address these d
 
 2. **Monthly Booking Patterns**
 
-![](Aspose.Words.924cb8a3-ee27-47ba-838e-564b66c27b41.004.jpeg)
+![](download5.jpeg)
 
 The grouped bar graph illustrates the monthly distribution of canceled and not-canceled reservations for hotels. August has the highest number of reservations,(which may be a popular vacation month) while January has the highest number of canceled reservations (possibly due to post-holiday season blues). This data can be utilized to develop strategies to improve cancellation rates and increase revenue during slower months. Understanding monthly reservation patterns is essential to improve business performance and customer satisfaction.
 
