@@ -1,42 +1,43 @@
-## About the Contributer:
 
-My name is **Utkarsh Kumar From IIT Kharagpur**.For this project, I analyzed and interpreted data related to hotel reservations and cancellations. My contributions included providing insights on the distribution of cancellations across different countries and market segments, analyzing the impact of ADR on cancellation rates, and offering recommendations for hotel management to minimize cancellations and increase revenue.
 
-# Business Problem
+Hi, I'm Utkarsh Kumar from IIT Kharagpur. In this project, I focused on analyzing hotel reservation data to uncover trends in cancellations and their impact on revenue. My work involved examining cancellation patterns across different countries and market segments, analyzing the role of ADR (Average Daily Rate) in cancellation rates, and providing actionable recommendations for hotel management to reduce cancellations and maximize revenue.
 
-In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates in both hotels’ Primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
+# Hotel Cancellation Analysis
+
+n recent years, both City Hotel and Resort Hotel have faced elevated cancellation rates, resulting in reduced revenue and suboptimal room utilization. This project aims to address this critical issue by identifying key factors contributing to cancellations and offering strategic recommendations to enhance hotel efficiency and profitability.
 
 The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
 
-### Assumptions:
+### Research Focus:
 
-1. No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used.
-1. The information is still current and can be used to analyze a hotel’s possible plans in an efficient manner.
-1. There are no unanticipated negatives to the hotel employing any advised technique.
-1. The hotels are not currently using any of the suggested solutions.
-1. The biggest factor affecting the effectiveness of earning income is booking cancellations.
-1. Cancellations result in vacant rooms for the booked length of time.
-1. Clients make hotel reservations the same year they make cancellations.
+The analysis dives deep into the factors influencing hotel booking cancellations and their broader impact on business performance and annual revenue.
 
-### Research Questions:
-
-1. What are the variables that affect hotel reservation cancellations?
-1. How can we make hotel reservations cancellations better?
-1. How will hotels be assisted in making pricing and promotional decisions?
-
-### Hypothesis:
-
-1. More cancellations occur when prices are higher.
-1. When there is a longer waiting list, customers tend to cancel more frequently.
-1. The majority of clients are coming from offline travel agents to make their reservations.
+⚖️ Key Assumptions:
+The data from 2015-2017 remains relevant without major disruptions affecting its reliability.
+The analysis reflects current market conditions, offering actionable insights.
+There are no unforeseen downsides to implementing the suggested strategies.
+The hotels are not currently using the proposed solutions.
+Booking cancellations are the primary challenge impacting revenue generation.
+Cancellations result in unoccupied rooms for the intended duration of the stay.
+Reservations and cancellations occur within the same year.
+❓ Research Questions:
+What variables contribute to hotel reservation cancellations?
+How can the rate of hotel reservation cancellations be reduced?
+How can hotels use this analysis to make informed pricing and promotional decisions?
+🧠 Hypotheses:
+Higher prices correlate with increased cancellations.
+Longer waitlists lead to more frequent cancellations.
+Most reservations are made through offline travel agents.
 
 ## Analysis and Findings:
 
-#### Cancellation Rates on the Hotels:
+#### Cancellation Rates Across Hotels:
 
 ![](download1.png)
 
-The data reveals that 37.1% of hotel reservations were canceled, resulting in a significant loss of revenue. A bar plot shows a clear contrast between the number of canceled (37.1%) and not canceled (62.9%) reservations. High cancellation rates lead to less ideal room usage and decreased revenue for hotels. Further analysis is necessary to identify factors contributing to high cancellation rates, such as pricing and waiting list length. By addressing these factors, we can develop strategies to reduce cancellations and improve revenue generation for hotels.
+A significant 37.1% of hotel reservations are canceled, leading to substantial revenue losses.
+The analysis shows stark differences between City and Resort Hotels, with the Resort Hotel experiencing a higher cancellation rate (41.71%) compared to the City Hotel (27.98%).
+It is crucial for hotel management to take proactive measures to address these disparities and reduce cancellations.
 
 ![](download2.png)The graph shows the number of reservations canceled and not canceled for each hotel type, with the Resort Hotel facing a significantly higher proportion of cancellations (27.98%) compared to the City Hotel (41.71%). Further analysis revealed that 72.02% of reservations at the Resort Hotel were not canceled, while only 58.29% of reservations at the City Hotel were not canceled. It is recommended that the Resort Hotel management takes proactive steps to reduce cancellation rates by identifying contributing factors and implementing appropriate measures. For the City Hotel, monitoring trends and identifying areas of improvement is necessary to maximize revenue and minimize losses.
 
@@ -46,13 +47,11 @@ The data reveals that 37.1% of hotel reservations were canceled, resulting in a 
 
 ![](download4.png)
 
-The line graph provides a clear visual representation of the difference in average daily rates(ADR) between the City Hotel and Resort Hotel. While the City Hotel tends to have lower rates than the Resort Hotel on most days, there are certain days where the rates are even lower. This could be attributed to factors such as seasonality, competition, and other external factors.
+A significant 37.1% of hotel reservations are canceled, leading to substantial revenue losses.
+The analysis shows stark differences between City and Resort Hotels, with the Resort Hotel experiencing a higher cancellation rate (41.71%) compared to the City Hotel (27.98%).
+It is crucial for hotel management to take proactive measures to address these disparities and reduce cancellations.
 
-It is important for the hotels to consider these factors while determining their pricing strategies. Additionally, the impact of pricing on reservation cancellations cannot be ignored. Further analysis is required to determine whether higher prices are leading to more cancellations, and if so, identify strategies to reduce the impact of cancellations on hotel revenue.
-
-Therefore, while this line graph provides initial insights into the pricing strategies of both hotels, more detailed analysis is necessary to understand the impact of pricing on the business operations of these hotels.
-
-2. **Monthly Analysis**
+2. **Monthly Booking Patterns**
 
 ![](Aspose.Words.924cb8a3-ee27-47ba-838e-564b66c27b41.004.jpeg)
 
@@ -88,13 +87,12 @@ The graph also confirms earlier findings that higher prices lead to higher cance
 
 Overall, the project has analyzed various factors that contribute to reservation cancellations, including the top countries with the highest cancellation rates, the distribution of cancellations across different market segments, and the relationship between ADR and cancellation rates. The insights gained from this analysis can help stakeholders develop effective strategies to reduce cancellations, increase revenue, and improve overall hotel performance.
 
-## Suggestions:
+## Recommendations:
 
 Based on the analysis conducted, here are some suggestions aimed at addressing the business problem of reducing cancellation rates and increasing revenue:
 
-1. **Change in Pricing Strategy:** It is recommended to consider a change in pricing strategy as a potential solution to address the issue of high cancellation rates. Specifically, the analysis suggests that cancellations are most common when prices are highest, and least common when they are lowest. Therefore, it may be beneficial to adjust pricing to incentivize customers to keep their reservations, such as offering special discounts or promotions during periods of low demand or adjusting pricing tiers to be more flexible.
-2. **Offer incentives for early bookings:** One of the key factors identified as contributing to cancellations is last-minute changes in plans. To combat this, the hotels could offer incentives for customers who book their stays well in advance. For example, they could offer discounts or complimentary services for bookings made more than 30 days in advance.
-3. **Implement flexible cancellation policies**: Another factor contributing to cancellations is the inflexibility of cancellation policies. By implementing more flexible policies, such as allowing customers to cancel or modify their bookings up to a certain date without penalty, the hotels could reduce the likelihood of cancellations.
-4. **Target marketing campaigns to specific segments:** The analysis also revealed that certain market segments, such as Online TA and Groups, have higher cancellation rates than others. By targeting marketing campaigns specifically to these segments and tailoring offers to their needs and preferences, the hotels could increase the likelihood of these customers keeping their bookings and returning in the future.
-
+Revise Pricing Strategy: Implement dynamic pricing to optimize room rates and reduce cancellations during high-demand periods.
+Incentivize Early Bookings: Offer discounts or perks for reservations made well in advance to secure bookings.
+Flexible Cancellation Policies: Introduce more lenient cancellation policies to accommodate customer needs and reduce last-minute cancellations.
+Targeted Marketing Campaigns: Focus on high-cancellation segments like Online TA with tailored offers to encourage commitment and reduce churns.
 
