@@ -30,7 +30,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 #### Cancellation Rates on the Hotels:
 
-![](download (2).png)
+![](download1.png)
 
 The data reveals that 37.1% of hotel reservations were canceled, resulting in a significant loss of revenue. A bar plot shows a clear contrast between the number of canceled (37.1%) and not canceled (62.9%) reservations. High cancellation rates lead to less ideal room usage and decreased revenue for hotels. Further analysis is necessary to identify factors contributing to high cancellation rates, such as pricing and waiting list length. By addressing these factors, we can develop strategies to reduce cancellations and improve revenue generation for hotels.
 
