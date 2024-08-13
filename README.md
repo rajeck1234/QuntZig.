@@ -2,9 +2,9 @@
 
 Hi, I'm Utkarsh Kumar from IIT Kharagpur. In this project, I focused on analyzing hotel reservation data to uncover trends in cancellations and their impact on revenue. My work involved examining cancellation patterns across different countries and market segments, analyzing the role of ADR (Average Daily Rate) in cancellation rates, and providing actionable recommendations for hotel management to reduce cancellations and maximize revenue.
 
-# Hotel Cancellation Analysis
+# Hotel Cancellation and Loss Analysis with Recommendations
 
-n recent years, both City Hotel and Resort Hotel have faced elevated cancellation rates, resulting in reduced revenue and suboptimal room utilization. This project aims to address this critical issue by identifying key factors contributing to cancellations and offering strategic recommendations to enhance hotel efficiency and profitability.
+In recent years, both City Hotel and Resort Hotel have faced elevated cancellation rates, resulting in reduced revenue and suboptimal room utilization. This project aims to address this critical issue by identifying key factors contributing to cancellations and offering strategic recommendations to enhance hotel efficiency and profitability.
 
 The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
 
