@@ -70,7 +70,7 @@ The cancellation rate of hotel reservations is affected by multiple factors, inc
 The data above shows the top 10 countries with the highest percentage of canceled reservations, with Portugal at the top of the list, accounting for 70.07% of all cancellations. It is essential to recognize this information and take action to minimize the impact of cancellations on the business. By analyzing the reasons behind the high cancellation rates from these countries and making the necessary changes to marketing strategies, hotel management can attract more stable customers and improve overall revenue. Additionally, offering incentives to customers from these countries may help to encourage them to keep their reservations and reduce the number of cancellations.
 
 5. **Market Segment Analysis:**
-
+![](download9.png)
 The analysis shows that the largest market segment is Online TA, representing almost 47.44% of all reservations. This is followed by Offline TA/TO and Groups, with 20.32% and 16.66% respectively. Direct and Corporate make up smaller proportions of the reservations, with 10.47% and 4.30% respectively. Finally, Complementary and Aviation make up a very small proportion of the reservations.
 
 When looking at the percentage of cancellations by market segment, the Online TA segment still has the highest percentage of cancellations, with 46.97%. The Groups segment has the second highest percentage of cancellations, at 27.40%. The Offline TA/TO segment has the third highest percentage of cancellations at 18.75%. Direct and Corporate segments have lower percentages of cancellations, at 4.35% and 2.21% respectively. Complementary and Aviation segments have the lowest percentages of cancellations.
