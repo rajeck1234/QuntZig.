@@ -34,13 +34,13 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 The data reveals that 37.1% of hotel reservations were canceled, resulting in a significant loss of revenue. A bar plot shows a clear contrast between the number of canceled (37.1%) and not canceled (62.9%) reservations. High cancellation rates lead to less ideal room usage and decreased revenue for hotels. Further analysis is necessary to identify factors contributing to high cancellation rates, such as pricing and waiting list length. By addressing these factors, we can develop strategies to reduce cancellations and improve revenue generation for hotels.
 
-![](download2.jpeg)The graph shows the number of reservations canceled and not canceled for each hotel type, with the Resort Hotel facing a significantly higher proportion of cancellations (27.98%) compared to the City Hotel (41.71%). Further analysis revealed that 72.02% of reservations at the Resort Hotel were not canceled, while only 58.29% of reservations at the City Hotel were not canceled. It is recommended that the Resort Hotel management takes proactive steps to reduce cancellation rates by identifying contributing factors and implementing appropriate measures. For the City Hotel, monitoring trends and identifying areas of improvement is necessary to maximize revenue and minimize losses.
+![](download3.jpeg)The graph shows the number of reservations canceled and not canceled for each hotel type, with the Resort Hotel facing a significantly higher proportion of cancellations (27.98%) compared to the City Hotel (41.71%). Further analysis revealed that 72.02% of reservations at the Resort Hotel were not canceled, while only 58.29% of reservations at the City Hotel were not canceled. It is recommended that the Resort Hotel management takes proactive steps to reduce cancellation rates by identifying contributing factors and implementing appropriate measures. For the City Hotel, monitoring trends and identifying areas of improvement is necessary to maximize revenue and minimize losses.
 
 #### Factors of Cancellation Analysis:
 
 1. **Price(ADR) Analysis**
 
-![](Aspose.Words.924cb8a3-ee27-47ba-838e-564b66c27b41.003.jpeg)
+![](download3.jpeg)
 
 The line graph provides a clear visual representation of the difference in average daily rates(ADR) between the City Hotel and Resort Hotel. While the City Hotel tends to have lower rates than the Resort Hotel on most days, there are certain days where the rates are even lower. This could be attributed to factors such as seasonality, competition, and other external factors.
 
