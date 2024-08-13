@@ -59,7 +59,7 @@ The grouped bar graph illustrates the monthly distribution of canceled and not-c
 
 3. **Combining both the above analysis and Concluding:**
 
-![](Aspose.Words.924cb8a3-ee27-47ba-838e-564b66c27b41.005.jpeg)
+![](download6.jpeg)
 
 The cancellation rate of hotel reservations is affected by multiple factors, including pricing and monthly reservation patterns. The bar graph displays the average daily rate per month for canceled reservations, highlighting that cancellations are more frequent when prices are higher. The monthly distribution of canceled and not-canceled reservations for hotels also shows that certain months, such as January, see a higher number of cancellations. These insights underscore the importance of analyzing both pricing and monthly patterns to develop effective strategies that reduce cancellations, increase revenue, and enhance customer satisfaction.
 
