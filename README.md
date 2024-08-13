@@ -65,7 +65,7 @@ The cancellation rate of hotel reservations is affected by multiple factors, inc
 
 4. **Regional Analysis:**
 
-![](download8.jpeg) ![](Aspose.Words.924cb8a3-ee27-47ba-838e-564b66c27b41.007.jpeg)
+![](download8.jpeg) ![](download10.jpeg)
 
 The data above shows the top 10 countries with the highest percentage of canceled reservations, with Portugal at the top of the list, accounting for 70.07% of all cancellations. It is essential to recognize this information and take action to minimize the impact of cancellations on the business. By analyzing the reasons behind the high cancellation rates from these countries and making the necessary changes to marketing strategies, hotel management can attract more stable customers and improve overall revenue. Additionally, offering incentives to customers from these countries may help to encourage them to keep their reservations and reduce the number of cancellations.
 
