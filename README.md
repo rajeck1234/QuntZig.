@@ -40,7 +40,7 @@ The data reveals that 37.1% of hotel reservations were canceled, resulting in a 
 
 1. **Price(ADR) Analysis**
 
-![](download3.png)
+![](download4.png)
 
 The line graph provides a clear visual representation of the difference in average daily rates(ADR) between the City Hotel and Resort Hotel. While the City Hotel tends to have lower rates than the Resort Hotel on most days, there are certain days where the rates are even lower. This could be attributed to factors such as seasonality, competition, and other external factors.
 
