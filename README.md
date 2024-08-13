@@ -1,3 +1,7 @@
+## About the Contributer:
+
+My name is **Utkarsh Kumar From IIT Kharagpur**.For this project, I analyzed and interpreted data related to hotel reservations and cancellations. My contributions included providing insights on the distribution of cancellations across different countries and market segments, analyzing the impact of ADR on cancellation rates, and offering recommendations for hotel management to minimize cancellations and increase revenue.
+
 # Business Problem
 
 In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates in both hotels’ Primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
@@ -93,14 +97,4 @@ Based on the analysis conducted, here are some suggestions aimed at addressing t
 3. **Implement flexible cancellation policies**: Another factor contributing to cancellations is the inflexibility of cancellation policies. By implementing more flexible policies, such as allowing customers to cancel or modify their bookings up to a certain date without penalty, the hotels could reduce the likelihood of cancellations.
 4. **Target marketing campaigns to specific segments:** The analysis also revealed that certain market segments, such as Online TA and Groups, have higher cancellation rates than others. By targeting marketing campaigns specifically to these segments and tailoring offers to their needs and preferences, the hotels could increase the likelihood of these customers keeping their bookings and returning in the future.
 
-## About the Contributer:
 
-My name is **WAREPAM RICHARD SINGH**.For this project, I analyzed and interpreted data related to hotel reservations and cancellations. My contributions included providing insights on the distribution of cancellations across different countries and market segments, analyzing the impact of ADR on cancellation rates, and offering recommendations for hotel management to minimize cancellations and increase revenue.
-
-## My Social Media Links
-
-For more project Updates, You can find me on:
-
-- [Twitter](https://twitter.com/codeWarepam)
-- [Instagram](https://www.instagram.com/warepam10/?next=%2F)
-- [LinkedIn](https://www.linkedin.com/in/richard-w-3b817420b/)
