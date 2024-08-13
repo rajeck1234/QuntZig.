@@ -79,7 +79,7 @@ The data on market segment distribution and cancellation rates highlights the im
 
 #### Concluding Analysis:
 
-![](Aspose.Words.924cb8a3-ee27-47ba-838e-564b66c27b41.008.jpeg)
+![](download6.jpeg)
 
 The line graph above provides valuable insights into the relationship between average daily rate (ADR) and reservation cancellations over time. The blue line representing the ADR for reservations that were not canceled shows a steady increase over time, indicating a positive trend in revenue. On the other hand, the orange line representing the ADR for canceled reservations fluctuates significantly, suggesting that price volatility has a greater impact on cancellation rates.
 
